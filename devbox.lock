@@ -1,0 +1,65 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "cmake@3.31.6": {
+      "last_modified": "2025-05-16T20:19:48Z",
+      "resolved": "github:NixOS/nixpkgs/12a55407652e04dcf2309436eb06fef0d3713ef3#cmake",
+      "source": "devbox-search",
+      "version": "3.31.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/446sv4sjjz03j7zw44icjbd81mfl8inx-cmake-3.31.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/446sv4sjjz03j7zw44icjbd81mfl8inx-cmake-3.31.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9cbpyw2256lkll43i97438fhb26h0xvc-cmake-3.31.6",
+              "default": true
+            },
+            {
+              "name": "debug",
+              "path": "/nix/store/vkkhdc8qyimrpz4zrhwc0bjrmabknwd8-cmake-3.31.6-debug"
+            }
+          ],
+          "store_path": "/nix/store/9cbpyw2256lkll43i97438fhb26h0xvc-cmake-3.31.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rlp1sdsib58dq9bxn0x9cvq54bgfp2j7-cmake-3.31.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rlp1sdsib58dq9bxn0x9cvq54bgfp2j7-cmake-3.31.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wphngc22a7aphbp5pi5jqmqlsqmisgn5-cmake-3.31.6",
+              "default": true
+            },
+            {
+              "name": "debug",
+              "path": "/nix/store/kdnzgg0361rhg6h8mxhzkw3wvs2c1ffn-cmake-3.31.6-debug"
+            }
+          ],
+          "store_path": "/nix/store/wphngc22a7aphbp5pi5jqmqlsqmisgn5-cmake-3.31.6"
+        }
+      }
+    },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-05-31T03:30:20Z",
+      "resolved": "github:NixOS/nixpkgs/59138c7667b7970d205d6a05a8bfa2d78caa3643?lastModified=1748662220&narHash=sha256-7gGa49iB9nCnFk4h%2Fg9zwjlQAyjtpgcFkODjcOQS0Es%3D"
+    }
+  }
+}
