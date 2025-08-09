@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pgquarrel.dir/src/aggregate.c.o"
+  "CMakeFiles/pgquarrel.dir/src/am.c.o"
+  "CMakeFiles/pgquarrel.dir/src/cast.c.o"
+  "CMakeFiles/pgquarrel.dir/src/collation.c.o"
+  "CMakeFiles/pgquarrel.dir/src/common.c.o"
+  "CMakeFiles/pgquarrel.dir/src/conversion.c.o"
+  "CMakeFiles/pgquarrel.dir/src/domain.c.o"
+  "CMakeFiles/pgquarrel.dir/src/eventtrigger.c.o"
+  "CMakeFiles/pgquarrel.dir/src/extension.c.o"
+  "CMakeFiles/pgquarrel.dir/src/fdw.c.o"
+  "CMakeFiles/pgquarrel.dir/src/function.c.o"
+  "CMakeFiles/pgquarrel.dir/src/index.c.o"
+  "CMakeFiles/pgquarrel.dir/src/language.c.o"
+  "CMakeFiles/pgquarrel.dir/src/matview.c.o"
+  "CMakeFiles/pgquarrel.dir/src/operator.c.o"
+  "CMakeFiles/pgquarrel.dir/src/policy.c.o"
+  "CMakeFiles/pgquarrel.dir/src/privileges.c.o"
+  "CMakeFiles/pgquarrel.dir/src/publication.c.o"
+  "CMakeFiles/pgquarrel.dir/src/quarrel.c.o"
+  "CMakeFiles/pgquarrel.dir/src/rule.c.o"
+  "CMakeFiles/pgquarrel.dir/src/schema.c.o"
+  "CMakeFiles/pgquarrel.dir/src/sequence.c.o"
+  "CMakeFiles/pgquarrel.dir/src/server.c.o"
+  "CMakeFiles/pgquarrel.dir/src/statistics.c.o"
+  "CMakeFiles/pgquarrel.dir/src/subscription.c.o"
+  "CMakeFiles/pgquarrel.dir/src/table.c.o"
+  "CMakeFiles/pgquarrel.dir/src/textsearch.c.o"
+  "CMakeFiles/pgquarrel.dir/src/transform.c.o"
+  "CMakeFiles/pgquarrel.dir/src/trigger.c.o"
+  "CMakeFiles/pgquarrel.dir/src/type.c.o"
+  "CMakeFiles/pgquarrel.dir/src/usermapping.c.o"
+  "CMakeFiles/pgquarrel.dir/src/view.c.o"
+  "pgquarrel"
+  "pgquarrel.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/pgquarrel.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,15 @@
+/Users/mlo/git/pgquarrel/CMakeFiles/pgquarrel.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/style.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/edit_cache.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/rebuild_cache.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/list_install_components.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/install.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/install/local.dir
+/Users/mlo/git/pgquarrel/CMakeFiles/install/strip.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/mini.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/edit_cache.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/rebuild_cache.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/list_install_components.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/install.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/install/local.dir
+/Users/mlo/git/pgquarrel/mini/CMakeFiles/install/strip.dir
